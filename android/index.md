@@ -68,7 +68,7 @@ title: Android
 
 ##### Note Takers
 
-* [Google Keep](TGNYC.github.io/android/googlekeep)
+* [Google Keep]/googlekeep)
 
 * [Evernote]
 
