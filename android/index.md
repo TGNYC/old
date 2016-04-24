@@ -68,7 +68,7 @@ title: Android
 
 ##### Note Takers
 
-* [Google Keep]/googlekeep)
+* [Google Keep](/googlekeep)
 
 * [Evernote]
 
