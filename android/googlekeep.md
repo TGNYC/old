@@ -2,7 +2,7 @@
 layout: app
 title: "Google Keep"
 category: notetaking, tasks
-links: <a href="https://play.google.com/store/apps/details?id=com.google.android.keep">Play</a>
+links: <a href="https://play.google.com/store/apps/details?id=com.google.android.keep">Play Store</a>
 price: Free
 ---
 Google Keep has several features including color coding notes, inserting images, creating lists, geo-fencing, shareable notes, and search by color. Users can set time or location-based reminders for notes. Reminders set through Keep are also accessible by other Google applications such as Google Now. Text from images can be extracted using Optical Character Recognition technology. This, however, works only with the English language. Voice recordings created through Keep are automatically transcribed. Google Keep allows users to convert text notes into checklists.
