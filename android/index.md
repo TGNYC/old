@@ -2,9 +2,8 @@
 layout: default
 title: Android
 ---
-
 # Android
--------
+
 ### the ultimate app guide
 
 ##### Browsers
