@@ -28,6 +28,15 @@ h2 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #a8a8a8;
 }
+h3 {
+    font-size: 1.75em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+h4 {
+    font-size: 1.25em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
 p {
     font-family:'Verdana', 'Geneva', 'Sans-Serif';
     font-size: 1.5em;
