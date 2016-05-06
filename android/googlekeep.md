@@ -2,8 +2,8 @@
 layout: app
 title: "Google Keep"
 category: notetaking, tasks
+price: Free
 ---
-# Google Keep
 
 Google Keep is a note taking app made by Google which does pretty much everything you would expect it to and a bit more. 
 
