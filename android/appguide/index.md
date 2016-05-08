@@ -8,8 +8,7 @@ title: Android App Guide by TGNYC
 ### the ultimate app guide
 
 ##### Browsers
-* [Chrome](/chrome) | [Play](https://play.google.com/store/apps/details?id=com.android.chrome) [Beta](https://play.google.com/store/apps/details?id=com.chrome.beta) [Dev](https://play.google.com/store/apps/details?id=com.chrome.dev)
-
+* [Chrome](/chrome) 
 
 + Lightning+ Browser**°**  *by ACR Development* | [Play](https://play.google.com/store/apps/details?id=acr.browser.lightning&hl=en)  [F-Droid](https://f-droid.org/repository/browse/?fdid=acr.browser.lightning)  [GitHub](https://github.com/anthonycr/Lightning-Browser)
 
