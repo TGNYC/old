@@ -1,6 +1,7 @@
 ---
 layout: app
-title: "Google Keep" by Google
+title: "Google Keep"
+author: Google
 category: notetaking, tasks
 links: <a href="https://play.google.com/store/apps/details?id=com.google.android.keep">Play Store</a>
 price: Free
