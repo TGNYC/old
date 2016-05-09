@@ -7,6 +7,8 @@ title: Android App Guide by TGNYC
 
 # the ultimate app guide
 
+Click on the app name to find links to download, price information and an in-depth review of the app.
+
 ## Browsers
 * [Chrome](/android/appguide/chrome) 
 
