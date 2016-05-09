@@ -5,9 +5,9 @@ title: Android App Guide by TGNYC
 **Please help contribute [here](https://github.com/TGNYC/TGNYC.github.io/issues/new). Tell me about app suggestions, typos, etc.**
 
 
-### the ultimate app guide
+# the ultimate app guide
 
-##### Browsers
+## Browsers
 * [Chrome](/android/appguide/chrome) 
 
 * [Lightning](/android/appguide/lightning)
