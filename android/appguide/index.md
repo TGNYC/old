@@ -14,9 +14,9 @@ Click on the app name to find links to download, price information and an in-dep
 
 * [Lightning](/android/appguide/lightning)
 
-+ [Firefox Browser for Android**°](/android/appguide/firefox)
+* [Firefox Browser for Android](/android/appguide/firefox)
 
-+ [Naked Browser](/android/appguide/naked)
+* [Naked Browser](/android/appguide/naked)
 
 ## Music
 
@@ -30,7 +30,7 @@ Click on the app name to find links to download, price information and an in-dep
 
 * [Google Play Music](/android/appguide/playmusic/)
 
-##### Language Learning
+## Language Learning
 
 * [Duolingo](/android/appguide/duolingo/)
 
@@ -40,7 +40,7 @@ Click on the app name to find links to download, price information and an in-dep
 
 * [Quizlet](/android/appguide/quizlet/)
 
-##### SMS Messengers
+## SMS Messengers
 
 * [Google Messenger]
 
@@ -48,7 +48,7 @@ Click on the app name to find links to download, price information and an in-dep
 
 * [AwSMS]
 
-##### File Managers
+## File Managers
 
 * [Solid Explorer]
 	* do **not** use ES Explorer
@@ -56,7 +56,7 @@ Click on the app name to find links to download, price information and an in-dep
 
 * [Cabinet]
 
-##### Photo Galleries
+## Photo Galleries
 
 * [Piktures]
 	* do **not** use QuickPik
@@ -66,7 +66,7 @@ Click on the app name to find links to download, price information and an in-dep
 
 * [Google Photos]
 
-##### Note Takers
+## Note Takers
 
 * [Google Keep](~/googlekeep)
 
@@ -76,7 +76,7 @@ Click on the app name to find links to download, price information and an in-dep
 
 * [OneNote]
 
-##### Tasks
+## Tasks
 
 * [Google Keep]
 
