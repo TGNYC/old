@@ -10,7 +10,7 @@ title: Android App Guide by TGNYC
 Click on the app name to find links to download, price information and an in-depth review of the app.
 
 ## Browsers
-* [Chrome](/android/appguide/chrome) 
+* [Chrome](/android/appguide/chrome)
 
 * [Lightning](/android/appguide/lightning)
 
@@ -19,7 +19,7 @@ Click on the app name to find links to download, price information and an in-dep
 
 + Naked Browser *by Feverish Development* | [Free](https://play.google.com/store/apps/details?id=com.fevdev.nakedbrowser) [Pro](https://play.google.com/store/apps/details?id=com.fevdev.nakedbrowser)
 
-##### Music 
+##### Music
 + Poweramp Music Player *by MaxMP* | [Play](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer)
 	* use a [Material Skin](https://play.google.com/store/apps/details?id=com.ikorolkov.poweramp.skins.material)
 
@@ -33,13 +33,13 @@ Click on the app name to find links to download, price information and an in-dep
 
 ##### Language Learning
 
-* [Duolingo](https://play.google.com/store/apps/details?id=com.duolingo) 
+* [Duolingo](https://play.google.com/store/apps/details?id=com.duolingo)
 
 * [Lingvist](https://play.google.com/store/apps/details?id=io.lingvist.android)
 
 * [Memrise](https://play.google.com/store/apps/details?id=com.memrise.android.memrisecompanion)
 
-* [Quizlet](https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid) 
+* [Quizlet](https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid)
 
 ##### SMS Messengers
 
@@ -69,7 +69,7 @@ Click on the app name to find links to download, price information and an in-dep
 
 ##### Note Takers
 
-* [Google Keep](/googlekeep)
+* [Google Keep](~/googlekeep)
 
 * [Evernote]
 
@@ -84,5 +84,3 @@ Click on the app name to find links to download, price information and an in-dep
 * [GTasks]
 
 * [Wunderlist]
-
-
