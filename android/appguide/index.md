@@ -18,27 +18,27 @@ Click on the app name to find links to download, price information and an in-dep
 
 + [Naked Browser](/android/appguide/naked)
 
-##### Music
-+ Poweramp Music Player *by MaxMP* | [Play](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer)
-	* use a [Material Skin](https://play.google.com/store/apps/details?id=com.ikorolkov.poweramp.skins.material)
+## Music
 
-+ Phonograph Music Player *by Karim Abou Zeid* | [Play](https://play.google.com/store/apps/details?id=com.kabouzeid.gramophone&hl=en)
+* [Poweramp](/android/appguide/poweramp/)
 
-+ Shuttle Music Player *by SimpleCity* | [Play](https://play.google.com/store/apps/details?id=another.music.player&hl=en)
+* [Phonograph](/android/appguide/Phonograph/)
 
-+ BlackPlayer Music Player *by KodarKooperativet* | [Play](https://play.google.com/store/apps/details?id=com.kodarkooperativet.blackplayerfree&hl=en)
+* [Shuttle](/android/appguide/shuttle/)
 
-+ Google Play Music *by Google* | [Play](https://play.google.com/store/apps/details?id=com.google.android.music&hl=en)
+* [BlackPlayer](/android/appguide/blackplayer/)
+
+* [Google Play Music](/android/appguide/playmusic/)
 
 ##### Language Learning
 
-* [Duolingo](https://play.google.com/store/apps/details?id=com.duolingo)
+* [Duolingo](/android/appguide/duolingo/)
 
-* [Lingvist](https://play.google.com/store/apps/details?id=io.lingvist.android)
+* [Lingvist](/android/appguide/lingvist/)
 
-* [Memrise](https://play.google.com/store/apps/details?id=com.memrise.android.memrisecompanion)
+* [Memrise](/android/appguide/memrise/)
 
-* [Quizlet](https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid)
+* [Quizlet](/android/appguide/quizlet/)
 
 ##### SMS Messengers
 
