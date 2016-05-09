@@ -14,10 +14,9 @@ Click on the app name to find links to download, price information and an in-dep
 
 * [Lightning](/android/appguide/lightning)
 
-+ Firefox Browser for Android**°** *by Mozilla* | [Play](https://play.google.com/store/apps/details?id=org.mozilla.firefox) [Code](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Firefox_for_Android_build)
-	* use [uBlock Origin](https://github.com/gorhill/uBlock) plugin
++ [Firefox Browser for Android**°](/android/appguide/firefox)
 
-+ Naked Browser *by Feverish Development* | [Free](https://play.google.com/store/apps/details?id=com.fevdev.nakedbrowser) [Pro](https://play.google.com/store/apps/details?id=com.fevdev.nakedbrowser)
++ [Naked Browser](/android/appguide/naked)
 
 ##### Music
 + Poweramp Music Player *by MaxMP* | [Play](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer)
