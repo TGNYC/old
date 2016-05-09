@@ -10,7 +10,7 @@ title: Android App Guide by TGNYC
 ##### Browsers
 * [Chrome](/android/appguide/chrome) 
 
-+ Lightning+ Browser**°**  *by ACR Development* | [Play](https://play.google.com/store/apps/details?id=acr.browser.lightning&hl=en)  [F-Droid](https://f-droid.org/repository/browse/?fdid=acr.browser.lightning)  [GitHub](https://github.com/anthonycr/Lightning-Browser)
+* [Lightning](/android/appguide/lightning)
 
 + Firefox Browser for Android**°** *by Mozilla* | [Play](https://play.google.com/store/apps/details?id=org.mozilla.firefox) [Code](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Firefox_for_Android_build)
 	* use [uBlock Origin](https://github.com/gorhill/uBlock) plugin
