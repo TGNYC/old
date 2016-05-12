@@ -6,4 +6,44 @@ links: <a href="https://play.google.com/store/apps/details?id=acr.browser.barebo
 price: Free / $1.50
 ---
 
-OPEN-SOURCE
+Lightning Browser is a free, lightweight web browser that is packaged in less than 2 MB. 
+
+Pros:
+
+  * Open-Source
+
+  * Light; only 2 MB worth of space.
+
+  * Tablet-optimized
+
+  * Uses way less data
+
+  * Free
+
+  * uses very little memory
+
+  * clean, Material-design look
+
+  * good for low-end phones
+
+  * built-in adblocker
+
+  * no privacy concerns
+
+  * [implementation of Orbot / TOR](https://www.torproject.org/)
+
+  * uses existing Android webkit
+
+  * no lack of features
+
+Cons:
+
+  * there are bugs
+
+  * slow updates
+
+  * maintained by one developer and the community
+
+  * no extensions
+
+  
