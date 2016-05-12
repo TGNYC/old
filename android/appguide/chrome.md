@@ -10,10 +10,15 @@ Google Chrome is the most popular web browser on mobile devices. It is the editi
 
 Pros:
  * Fast. (not the fastest though)
+
  * Leading support for HTML5. 
+
  * Good security. 
+ 
  * Syncing with the Google Chrome desktop app.
+
  * Material Design.
+
  * Easy Navigation.
  * Voice Search.
  * Tab Implementation.
