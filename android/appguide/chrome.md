@@ -20,6 +20,8 @@ Pros:
 
  * Material Design.
 
+ * updated frequently
+
  * Easy Navigation.
 
  * Voice Search.
@@ -31,6 +33,8 @@ Pros:
  * Autofill Passwords.
 
  * Omnibox.
+
+ * based off of open-source Chromium.
 
 Cons:
 
@@ -45,4 +49,6 @@ Cons:
  * not the best for low-end phones
 
  * uses a lot of RAM
+
+ * not open-source
 
