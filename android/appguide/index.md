@@ -68,7 +68,7 @@ Click on the app name to find links to download, price information and an in-dep
 
 ## Note Takers
 
-* [Google Keep](~/googlekeep)
+* [Google Keep](/googlekeep)
 
 * [Evernote]
 
