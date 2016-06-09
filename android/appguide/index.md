@@ -42,7 +42,7 @@ Click on the app name to find links to download, price information and an in-dep
 
 ## SMS Messengers
 
-* [Google Messenger]
+* [Google Messenger](/android/appguide/googlemessenger/)
 
 * [Textra SMS]
 
@@ -68,7 +68,7 @@ Click on the app name to find links to download, price information and an in-dep
 
 ## Note Takers
 
-* [Google Keep](/googlekeep)
+* [Google Keep](/anroid/appguide/googlekeep)
 
 * [Evernote]
 
@@ -78,7 +78,7 @@ Click on the app name to find links to download, price information and an in-dep
 
 ## Tasks
 
-* [Google Keep]
+* [Google Keep](/android/appguide/googlekeep)
 
 * [GTasks]
 
