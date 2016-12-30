@@ -1,2 +1,5 @@
 name: TGNYC, mediocre mage
 markdown: kramdown
+
+url:              http://quickbrownfox.xyz/old
+baseurl:          /
